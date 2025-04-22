@@ -47,10 +47,12 @@ python main.py
 
 ```
 
-## ✅ Sample Output
+##  🎯 Sample Output (With a = 78, b = 90)
 
+```bash
 above 70
 not above 80
 nothing
 a is less than b
+
 
