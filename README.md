@@ -44,3 +44,11 @@ Run the script with:
 
 ```bash
 python main.py
+
+## ✅ Sample Output
+
+above 70
+not above 80
+nothing
+a is less than b
+
