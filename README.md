@@ -45,6 +45,8 @@ Run the script with:
 ```bash
 python main.py
 
+```
+
 ## ✅ Sample Output
 
 above 70
